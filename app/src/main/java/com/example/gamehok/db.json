@@ -1,0 +1,6 @@
+{
+  "tournaments": [
+    { "id": 1, "name": "PUBG Championship", "gameName": "PUBG", "entryFees": 100, "prizeCoins": "5000" },
+    { "id": 2, "name": "Free Fire Showdown", "gameName": "Free Fire", "entryFees": 50, "prizeCoins": "3000" }
+  ]
+}
