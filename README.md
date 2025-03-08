@@ -57,17 +57,3 @@ implementation("com.google.accompanist:accompanist-systemuicontroller:0.30.1")
 ### Video Demo 🎥
 <video src="https://github.com/user-attachments/assets/c394e26d-472a-437c-9d79-cffa996b6d4a" width="200" controls></video>
 
----
-
-## How to Push to GitHub 🚀
-
-### 1️⃣ Create a GitHub Repository
-1. Go to [GitHub](https://github.com/) and create a new repository.
-2. Copy the repository URL.
-
-### 2️⃣ Initialize Git in Your Android Project
-#### Using Android Studio
-1. Open **VCS** > **Enable Version Control Integration**.
-2. Select **Git** and click **OK**.
-3. Go to **VCS** > **Commit** and commit your files.
-4. Push the code to GitHub from **VCS** > **Git** > **Push**.
